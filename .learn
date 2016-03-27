@@ -1,8 +1,6 @@
 tags:
-  - rspec
-  - intro
   - tdd
   - conditional statements
   - flow control
 languages:
-  - ruby
+  - python
