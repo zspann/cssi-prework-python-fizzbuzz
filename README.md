@@ -7,4 +7,4 @@
 
 ## Instructions
 
-Remember the FizzBuzz method you built way back in JavaScript-land? Well it's time to re-build it in Python. Using conditional statements, built out the `fizzbuzz()` method to pass the tests! Good luck!
+Remember the FizzBuzz method you built way back in JavaScript-land? Well it's time to re-build it in Python. Using conditional statements, build out the `fizzbuzz()` method to pass the tests! Good luck!
